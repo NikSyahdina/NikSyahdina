@@ -7,18 +7,6 @@
 </div>
 
 ###
-
-<p align="left">My name is Nik Syahdina Zulaikha binti Badrul Hisham and I'm a Bioinformatics student, from Universiti Teknologi Malaysia.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Interest in computer science since I was 18 years old<br>📚 I'm currently learning machine learning (ML)<br>🎯 Goals: finish my degree<br>🎲 Fun fact: I love reading Webtoon</p>
-
-###
 <h1 align="center">Hi 👋, I'm Nik Syahdina Zulaikha binti Badrul Hisham</h1>
 <h3 align="center">A passionate 4th year computer science student from Universiti Teknologi Malaysia.</h3>
 
