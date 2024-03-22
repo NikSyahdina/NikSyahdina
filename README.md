@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I love reading Webtoon**
 
-<h3 align="left">Connect with me in LinkedIn: **https://www.linkedin.com/in/nik-syahdina/** </h3>
+<h3 align="left">Connect with me in LinkedIn: https://www.linkedin.com/in/nik-syahdina/ </h3>
 <p align="left">
 </p>
 
